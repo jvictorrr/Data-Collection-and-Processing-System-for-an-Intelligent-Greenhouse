@@ -1,0 +1,3 @@
+C:\Users\jvict\Downloads\03_Estagio_Codigo_PedroJBBarros\Servidor_Projeto_Pedro\Debug\ProjetoServer.exe
+C:\Users\jvict\OneDrive\Documentos\03_STR_JOAORAMALHO\Servidor_Projeto_Pedro\Debug\ProjetoServer.exe
+C:\Users\jvict\OneDrive\Documentos\03_STR_JOAORAMALHO\Servidor\Debug\ProjetoServer.exe
